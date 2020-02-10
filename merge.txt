@@ -1,0 +1,3 @@
+-- Merge brach.
+ git merge Tên nhánh cần merge. 
+ --> Chung ta phải đứng tại nhánh chính là nhánh master.
